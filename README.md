@@ -7,7 +7,7 @@
 
 <p>
   <a title="C++" href="https://www.learncpp.com/">
-    <img width="15" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP">
+    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP">
   </a>
   <a title="C#" href="https://www.w3schools.com/cs/default.asp">
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp">
