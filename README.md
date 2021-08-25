@@ -28,4 +28,4 @@
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iiiMaximus&repo=Chester&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkieAdmin&repo=Panda-Respiratory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
