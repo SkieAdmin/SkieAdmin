@@ -80,11 +80,12 @@ passion: "Building innovative AI-powered web solutions"
 
 ### 🤖 **AI & Machine Learning**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-87CEEB?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Windsurf-87CEEB?style=for-the-badge&logoColor=white" alt="Windsurf"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/AI_Integration-4285F4?style=for-the-badge&logoColor=white" alt="AI Integration"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4A90E2?style=for-the-badge&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-87CEEB?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
 </p>
 
 ### 🛠️ **Tools & Platforms**
