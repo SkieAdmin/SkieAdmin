@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌟 Welcome to SkieAdmin's Profile
+# 🌟 Welcome to My Biodata
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=87CEEB&background=1A1A1A00&center=true&vCenter=true&width=600&lines=IT+Graduate+Student;Senior+Web+Developer;Full+Stack+Engineer;Code+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=87CEEB&background=1A1A1A00&center=true&vCenter=true&width=600&lines=IT+Graduate+Student;Senior+Web+Developer;AI+Prompt+Engineer;Full+Stack+Engineer;Code+Enthusiast" alt="Typing SVG" />
 
 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
@@ -10,12 +10,13 @@
 
 ```yaml
 name: "SkieAdmin"
-role: "Senior Web Developer"
+role: "Senior Web Developer & AI Prompt Engineer"
 company: "Panda-Pelican"
 website: "https://pandadevelopment.net/"
 education: "IT Graduate Student"
 location: "Asia"
-passion: "Building innovative web solutions"
+specialties: ["Full-Stack Development", "AI Prompt Engineering", "Database Design"]
+passion: "Building innovative AI-powered web solutions"
 ```
 
 </div>
@@ -38,6 +39,7 @@ passion: "Building innovative web solutions"
 
 ### 🎨 **Specialization**
 - 🌐 Full-Stack Web Development
+- 🤖 AI Prompt Engineering & Integration
 - 📱 Modern Frontend Frameworks
 - 🗄️ Database Architecture & Design
 - ⚡ Performance Optimization
@@ -74,6 +76,15 @@ passion: "Building innovative web solutions"
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🤖 **AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-87CEEB?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/AI_Integration-4285F4?style=for-the-badge&logoColor=white" alt="AI Integration"/>
 </p>
 
 ### 🛠️ **Tools & Platforms**
