@@ -1,159 +1,80 @@
 <div align="center">
 
-# 🌟 Welcome to My Biodata
+# Kerneil Rommel Gocotano
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=87CEEB&background=1A1A1A00&center=true&vCenter=true&width=600&lines=IT+Graduate+Student;Senior+Web+Developer;AI+Prompt+Engineer;Full+Stack+Engineer;Code+Enthusiast" alt="Typing SVG" />
+**Web & Software Developer** · React,&nbsp;Node.js,&nbsp;Django · Cebu,&nbsp;Philippines&nbsp;(UTC+8)
 
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-### 🚀 About Me
-
-```yaml
-name: "SkieAdmin"
-role: "Senior Web Developer & AI Prompt Engineer"
-company: "Panda-Pelican"
-website: "https://pandadevelopment.net/"
-education: "IT Graduate Student"
-location: "Asia"
-specialties: ["Full-Stack Development", "AI Prompt Engineering", "Database Design"]
-passion: "Building innovative AI-powered web solutions"
-```
+[kerlemmorsti@gmail.com](mailto:kerlemmorsti@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kerneil-rommel-gocotano-2647a4191/)&nbsp;·&nbsp;[Portfolio](https://skie.pandadevelopment.net)
 
 </div>
 
----
+Hi, I'm Kerneil (most people call me Skie), a 2026 IT graduate who has written production code since 2022. I build web applications end to end and test them before anyone else has to.
 
-## 🎯 Professional Summary
+**Looking for:** a full-time web or software developer role (QA-focused roles welcome), on-site around Cebu or remote. Email works best; I usually reply within a day.
 
-<table>
-<tr>
-<td width="50%">
+## Experience
 
-### 🎓 **Current Status**
-- 📚 IT Graduate Student in Asia
-- 💼 Senior Web Developer at [Panda-Pelican](https://pandadevelopment.net/)
-- 🌟 Passionate about cutting-edge technologies
+**Full-Stack Developer & QA Analyst** · PandaAuth · Aug 2022 – Present<br>
+My own authentication and software-licensing platform, built and run solo in production ([details on my portfolio](https://skie.pandadevelopment.net/projects)).
 
-</td>
-<td width="50%">
+- Built the Node.js/Express REST APIs and MongoDB data model for registration, license validation and entitlement checks.
+- Designed the token-based authentication and the automated license-validation pipeline.
+- Run QA before every release: API regression tests in Postman, malformed-payload probes with curl, and replay and tamper tests in Fiddler.
+- Manage the Linux/Nginx VPS: security updates, reverse-proxy configuration and uptime monitoring.
 
-### 🎨 **Specialization**
-- 🌐 Full-Stack Web Development
-- 🤖 AI Prompt Engineering & Integration
-- 📱 Modern Frontend Frameworks
-- 🗄️ Database Architecture & Design
-- ⚡ Performance Optimization
+**Web Developer Intern** · Eversoft IT Solutions, Cagayan de Oro City · Nov 2025 – Feb 2026<br>
+On-site college internship (OJT, short for on-the-job training).
 
-</td>
-</tr>
-</table>
+- Built the backend of a clinic web application: Django REST APIs and PostgreSQL schemas for patient records, appointments and clinical workflows.
+- Protected patient data with encrypted authentication, role-based access control and enforced HTTPS.
+- Added AI-generated (LLM) patient notes and real-time Whisper speech-to-text so staff spent less time typing.
 
----
+## Selected projects
 
-## 💻 Tech Stack & Expertise
+- **[Scratch AI Editor](https://github.com/SkieAdmin/Scratch-AI-Editor)**: an unofficial AI layer I added to the open-source Scratch editor. A local bridge lets Claude or an in-editor chat create sprites, add blocks and run projects, and keeps API keys out of the browser.<br>
+  **Stack:** TypeScript · React · Node.js · MCP · WebSocket · Electron · Vitest · Jest
 
-<div align="center">
+- **[VeggieScan](https://github.com/SkieAdmin/VeggieScan)**: my award-winning capstone project, which grades vegetable freshness and flags contamination from a photo, using YOLOv8 detection and an LLM reasoning layer. I was the lead developer. The [VeggieScan-R35 mobile version](https://github.com/SkieAdmin/VeggieScan-R35) scores carrot freshness from 0 to 100 with a custom 4-class YOLOv8 model.<br>
+  **Stack:** Python · YOLOv8 · PyTorch · OpenCV · Roboflow · React · Express · Prisma · C#/.NET · React Native · FastAPI
 
-### 🚀 **Frontend Technologies**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ES6+"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+- **[Django Deployment App](https://github.com/SkieAdmin/Python-Django-System-Deployment-App)**: a self-hosted platform that deploys each Django app to its own Docker container with live logs. An AI auto-healer catches Python tracebacks, patches the code with the Claude Code CLI and restarts the container.<br>
+  **Stack:** Python · Django · Docker · Server-Sent Events
+
+- **[WireGuard VPN Panel](https://github.com/SkieAdmin/OpenVPN-Web-Management-System)**: a Django 5 web app for managing a VPN server, with per-device peers, QR-code configs and a login lockout after 5 failed attempts, plus 14 Django unit tests. The web process never runs as root; a sudo-restricted helper validates the arguments of every privileged call.<br>
+  **Stack:** Python · Django · WireGuard · Gunicorn · Nginx · systemd · Bash
+
+- **[Petmate Clinic System](https://github.com/SkieAdmin/Petmate-Clinic-System)**: management software for veterinary clinics (33 Prisma models), covering consultations, prescriptions, inventory, audit logs and PDF invoices, plus a customer booking portal.<br>
+  **Stack:** Node.js · Express · EJS · Prisma · MySQL · PDFKit
+
+## Skills
+
+<p align="center">
+  <a href="https://skie.pandadevelopment.net/skills"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cpy%2Creact%2Cnodejs%2Cexpress%2Cdjango%2Cfastapi%2Cpostgres%2Cmysql%2Cmongodb%2Cprisma%2Cdocker%2Cnginx%2Clinux%2Cpostman&perline=8&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cpy%2Creact%2Cnodejs%2Cexpress%2Cdjango%2Cfastapi%2Cpostgres%2Cmysql%2Cmongodb%2Cprisma%2Cdocker%2Cnginx%2Clinux%2Cpostman&perline=8&theme=light">
+    <img alt="Icons of the tools I use, linking to the skills page on my portfolio" src="https://skillicons.dev/icons?i=js%2Cts%2Cpy%2Creact%2Cnodejs%2Cexpress%2Cdjango%2Cfastapi%2Cpostgres%2Cmysql%2Cmongodb%2Cprisma%2Cdocker%2Cnginx%2Clinux%2Cpostman&perline=8&theme=light">
+  </picture></a>
 </p>
 
-### ⚙️ **Backend Technologies**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
+- **Languages:** JavaScript, TypeScript, Python, PHP, C#, SQL
+- **Frontend:** React, React Native (Expo), HTML5, CSS3, Tailwind CSS, Material UI
+- **Backend:** Node.js, Express, Django, Django REST Framework, FastAPI, Laravel, .NET, Prisma, REST APIs, WebSockets, Server-Sent Events, JWT auth
+- **Databases:** PostgreSQL, MySQL/MariaDB, MongoDB, SQLite, Redis
+- **QA & testing:** API regression testing, test-case writing, bug reporting, Postman, curl, Fiddler, Vitest, Jest, Django unit tests
+- **AI & ML:** LLM APIs (Google Gemini, DeepSeek, OpenRouter, Ollama, LM Studio), Model Context Protocol (MCP), computer vision (YOLOv8, Roboflow, PyTorch, OpenCV), Whisper speech-to-text
+- **DevOps:** Linux servers, Nginx, Docker, Gunicorn, systemd, Git
+- **Learning now:** Playwright end-to-end tests, Supertest API tests, CI pipelines
 
-### 🗄️ **Database Systems**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+I use AI coding assistants (Claude Code, Cursor, Windsurf) daily, and I review and test everything I ship.
 
-### 🤖 **AI & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Windsurf-87CEEB?style=for-the-badge&logoColor=white" alt="Windsurf"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/DeepSeek-4A90E2?style=for-the-badge&logoColor=white" alt="DeepSeek"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-87CEEB?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
-</p>
+## Education & certifications
 
-### 🛠️ **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
+- **B.S. in Information Technology (BSIT)**, St. Michael's College of Iligan · 2022–2026
+  - Capstone *VeggieScan*: **Best Paper Presentation** and **Best Oral Presentation** (undergraduate category) at the college's 6th International Research Congress · Mar 2026
+  - 4th Year Representative, College of Computer Studies · 2025–2026
+- **TOPCIT Level 3** (Test of Practical Competency in ICT) · Dec 2025
+- **TESDA NC II** (Philippine National Certificate II), Computer Systems Servicing · Jul 2026
+- **Google AI Essentials**, 4 course certificates on Coursera · Jun 2026
+- [Full certificate list with scans](https://skie.pandadevelopment.net/certificates)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-![SkieAdmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkieAdmin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB&text_color=ffffff&count_private=true)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkieAdmin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=ffffff)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkieAdmin&theme=tokyonight&hide_border=true&background=0D1117&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Panda Respiratory](https://github-readme-stats.vercel.app/api/pin/?username=SkieAdmin&repo=Panda-Respiratory&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=ffffff)](https://github.com/SkieAdmin/Panda-Respiratory)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Website-Panda--Pelican-87CEEB?style=for-the-badge&logoColor=white)](https://pandadevelopment.net/)
-[![GitHub](https://img.shields.io/badge/GitHub-SkieAdmin-87CEEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkieAdmin)
-[![Email](https://img.shields.io/badge/📧_Contact-Professional-87CEEB?style=for-the-badge&logoColor=white)](mailto:contact@pandadevelopment.net)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 *"Code is poetry written in logic"*
-
-<img src="https://komarev.com/ghpvc/?username=SkieAdmin&color=87CEEB&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-**⭐ Star my repositories if you find them interesting!**
-
-</div>
-
-</div>
+**Contact:** [kerlemmorsti@gmail.com](mailto:kerlemmorsti@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kerneil-rommel-gocotano-2647a4191/)&nbsp;·&nbsp;[Portfolio](https://skie.pandadevelopment.net)
