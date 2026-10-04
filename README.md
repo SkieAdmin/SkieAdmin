@@ -8,7 +8,7 @@
 
 </div>
 
-Hi, I'm Kerneil (most people call me Skie), a 2026 IT graduate who has written production code since 2022. I build web applications end to end and test them before anyone else has to.
+Hi, I'm Kerneil (most people call me Skie), a 2026 IT graduate who has written production code since 2019 (with CSharp Applications such as WinForm-based Application and some simple stuff as Side-Projects of mine) and i grow on exploring more, deeper part of programming. I build web applications end to end and test them before anyone else has to.
 
 **Looking for:** a full-time web or software developer role (QA-focused roles welcome), on-site around Cebu or remote. Email works best; I usually reply within a day.
 
